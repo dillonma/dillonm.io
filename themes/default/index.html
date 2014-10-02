@@ -2,17 +2,17 @@
 <html lang="en" class="no-js">
 <head>
 	<meta charset="utf-8" />
-	
+
 	<title>{% if meta.title %}{{ meta.title }} | {% endif %}{{ site_title }}</title>
 {% if meta.description %}
-	<meta name="description" content="{{ meta.description }}"> 
+	<meta name="description" content="{{ meta.description }}">
 {% endif %}{% if meta.robots %}
 	<meta name="robots" content="{{ meta.robots }}">
 {% endif %}
-	
-	<link rel="stylesheet" href="http://fonts.googleapis.com/css?family=Open+Sans:400,700" type="text/css" />
+
+	<link href='http://fonts.googleapis.com/css?family=Source+Sans+Pro:400,600,700,400italic,600italic|Source+Code+Pro|Source+Serif+Pro:400,600,700' rel='stylesheet' type='text/css'>
 	<link rel="stylesheet" href="{{ theme_url }}/style.css" type="text/css" />
-	
+
 	<script src="{{ theme_url }}/scripts/modernizr-2.6.1.min.js"></script>
 </head>
 <body>
@@ -33,13 +33,12 @@
 			{{ content }}
 		</div>
 	</section>
-	
+
 	<footer id="footer">
 		<div class="inner">
-			<a href="http://picocms.org/">Pico</a> was made by <a href="http://gilbert.pellegrom.me">Gilbert Pellegrom</a> 
-			from <a href="http://dev7studios.com">Dev7studios</a>.
+			This site is powered by <a href="http://picocms.org/">Pico</a>, with inspiration from <a href="http://ellieharmon.com/">Ellie</a> and the Source Pro family of fonts.
 		</div>
 	</footer>
-    
+
 </body>
 </html>

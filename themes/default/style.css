@@ -79,7 +79,7 @@ input,
 textarea,
 select {
 	padding: 5px;
-	font: 400 1em Verdana, Sans-serif;
+	font: 400 1em 'Source Sans Pro', Calibri, Helvetica, Verdana, sans-serif;
 	color: #666;
 	background: #fff;
 	border: 1px solid #999999;
@@ -97,16 +97,15 @@ select:focus {
 /* Main Styles
 /*---------------------------------------------*/
 body {
-	/*font: 14px/1.8em 'Open Sans', Helvetica, Arial, Helvetica, sans-serif;*/
-	font: 14px/1.8em 'Source Serif Pro', sans-serif;
-	color: #444;
+	font: 16px/1.8em 'Source Sans Pro', Calibri, Helvetica, Verdana, sans-serif;
+	color: #111;
 	background: #fff;
 	-webkit-font-smoothing: antialiased;
 }
 
 a, a:visited {
-	color: #2EAE9B;
-	text-decoration: none;
+	color: #522B83;
+	text-decoration: underline;
 	-webkit-transition: all 0.2s linear;
 	-moz-transition: all 0.2s linear;
 	-ms-transition: all 0.2s linear;
@@ -126,7 +125,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 h1 {
-	font-size: 2em;
+	font-size: 1.2em;
 }
 
 h2 {
@@ -178,15 +177,17 @@ sup {
 	font-size: smaller;
 }
 
-code {
-	font-family: Courier, "Courier New", Monaco, Tahoma;
+code, pre {
+	font-family: 'Source Code Pro', Courier, "Courier New", Monaco, Tahoma;
 	background: #eee;
-	color: #333;
+	color: #111;
+}
+
+code {
 	padding: 0px 2px;
 }
 
 pre {
-	background: #eee;
 	padding: 20px;
 	margin-bottom: 1em;
 	overflow: auto;
@@ -207,28 +208,31 @@ blockquote {
 }
 
 #header {
-	background: #2EAE9B;
-	padding: 60px 0;
+	/*background: #2EAE9B;
+		color: #afe1da; */
+	padding: 30px 0;
 	margin-bottom: 80px;
-	color: #afe1da;
+	text-align: center;
 }
-#header a { color: #afe1da; }
+#header a { color: #522B83; }
+#header h1 a { text-decoration: none; }
 #header h1 a,
-#header a:hover { color: #fff; }
+#header a:hover { color: #000; }
+#header h1 a:hover { color: #522B83; }
 #header h1 {
-	font-weight: bold;
+	font-weight: 600;
 	margin: 0;
-	float: left;
+	/* float: left; */
 }
 #header .nav {
-	float: right;
+	/* float: right; */
 	list-style: none;
 	margin: 0;
 	padding: 0;
 }
 #header .nav li { display: inline; }
 #header .nav a {
-	font-weight: bold;
+	font-weight: normal;
 	margin-left: 20px;
 }
 

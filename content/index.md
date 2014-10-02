@@ -1,10 +1,10 @@
 /*
-Title: Welcome
-Description: This description will go in the meta description tag
+Title: Dillon Mahmoudi
+Description: Dillon Mahmoudi, economic geography scholar
+Navigation: True
 */
 
-## Welcome to Pico
-Congratulations, you have successfully installed [Pico](http://picocms.org/). Pico is a stupidly simple, blazing fast, flat file CMS.
+<big>I am a PhD Candidate in the [Toulan School of Urban Studies and Planning](http://www.pdx.edu/usp) at Portland State, interested in urban inequality and industrial restructuring.</big>
 
 ### Creating Content
 
