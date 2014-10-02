@@ -1,4 +1,4 @@
-<?php 
+<?php
 
 /*
 // Override any of the default settings below:
@@ -21,3 +21,7 @@ $config['excerpt_length'] = 50;			// The pages excerpt length (in words)
 $config['custom_setting'] = 'Hello'; 	// Can be accessed by {{ config.custom_setting }} in a theme
 
 */
+
+$config['site_title'] = 'Dillon Mahmoudi';     // Site title
+//$config['base_url'] = '';         // Override base URL (e.g. http://example.com)
+$config['theme'] = 'default';       // Set the theme (defaults to "default")
