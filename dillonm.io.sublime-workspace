@@ -1,0 +1,388 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"Fin",
+				"FinLQ07"
+			],
+			[
+				"HIN",
+				"HINCRATIO8020_1012"
+			],
+			[
+				"MHHI",
+				"MedianHHIPCTChange20000608"
+			],
+			[
+				"Intr",
+				"IntrLQ02"
+			],
+			[
+				"suqare",
+				"square-stroked"
+			],
+			[
+				"HTM",
+				"HtMfgLQ02"
+			],
+			[
+				"HTMfg",
+				"HtMfgLQChg0212"
+			],
+			[
+				"gang",
+				"gangnam_style"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 311.0,
+		"selected_items":
+		[
+			[
+				"browse",
+				"SFTP: Browse Server…"
+			],
+			[
+				"edit",
+				"SFTP: Edit Server…"
+			],
+			[
+				"brow",
+				"SFTP: Browse Server…"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"remove p",
+				"Package Control: Remove Package"
+			],
+			[
+				"remove ",
+				"Package Control: Remove Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"install package",
+				"Package Control: Install Package"
+			],
+			[
+				"install pack",
+				"Package Control: Install Package"
+			],
+			[
+				"sft",
+				"SFTP: Browse Server…"
+			],
+			[
+				"brows",
+				"SFTP: Browse Server…"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"replr",
+				"SublimeREPL: R"
+			],
+			[
+				"remove package",
+				"Package Control: Remove Package"
+			],
+			[
+				"install packa",
+				"Package Control: Install Package"
+			],
+			[
+				"repl",
+				"SublimeREPL: R"
+			],
+			[
+				"replr ",
+				"SublimeREPL: R"
+			],
+			[
+				"repl r",
+				"SublimeREPL: R"
+			],
+			[
+				"bro",
+				"SFTP: Browse Server…"
+			],
+			[
+				"sftp",
+				"SFTP: Browse Server…"
+			],
+			[
+				"edit ",
+				"SFTP: Edit Server…"
+			]
+		],
+		"width": 636.0
+	},
+	"console":
+	{
+		"height": 162.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '7183a2d3e96f11eeadd761d777e62404' + 'e330c659d4bb41d3bdf022e94cab3cd0'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/Dillon/Dropbox/Schrock/High-I Update/Data/Regression/Regression.R",
+		"/C/users/dillon/appdata/local/temp/sublime-sftp-browse-1411748996/econdevlab.org/home/edlab/maps.econdevlab.org/artplace/index.html",
+		"/C/Users/Dillon/Dropbox/Cortright/CityLabSurvey/CityLabSurvey.R",
+		"/C/Users/Dillon/Dropbox/Schrock/High-I Update/Data/Regression/variables.txt",
+		"/C/users/dillon/appdata/local/temp/sublime-sftp-browse-1411580251/econdevlab.org/home/edlab/maps.econdevlab.org/artplace/index.html",
+		"/C/Users/Dillon/AppData/Roaming/Sublime Text 3/Packages/User/sftp_servers/econdevlab.org",
+		"/C/Users/Dillon/Dropbox/Schrock/High-I Update/Data/Regression/Temp.R",
+		"/C/Users/Dillon/Dropbox/Temp/subset.R",
+		"/C/users/dillon/appdata/local/temp/sublime-sftp-browse-1411152634/econdevlab.org/home/edlab/maps.econdevlab.org/artplace/index.html",
+		"/C/Users/Dillon/GitHub/APgeojson/hash-object.txt",
+		"/C/Users/Dillon/Dropbox/Temp/spatial_clustering.r",
+		"/C/Users/Dillon/Dropbox/Temp/pytest.py",
+		"/C/OSGeo4W64/bin/get-pip.py",
+		"/C/Users/Dillon/AppData/Roaming/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/C/users/dillon/appdata/local/temp/sublime-sftp-browse-1410545333/econdevlab.org/home/edlab/maps.econdevlab.org/artplace/index.html",
+		"/C/users/dillon/appdata/local/temp/sublime-sftp-browse-1410548720/econdevlab.org/home/edlab/maps.econdevlab.org/ap_demo/projects.html",
+		"/C/Users/Dillon/AppData/Roaming/Sublime Text 3/Packages/User/Python.sublime-settings",
+		"/C/Users/Dillon/AppData/Roaming/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
+		"/C/Users/Dillon/Dropbox/portland twitter/graphs.R",
+		"/C/Users/Dillon/Dropbox/Writing/FA_PET/fa_pet_response.tex",
+		"/C/Users/Dillon/Dropbox/portland twitter/pdx_alberta2.csv",
+		"/C/Users/Dillon/Dropbox/Schrock/High-I Update/Data/Regression/Split_by.R",
+		"/C/Users/Dillon/Dropbox/Schrock/High-I Update/Data/QWI_3_Metros_2012q2/console_output_2012q2.txt",
+		"/C/users/dillon/appdata/local/temp/sublime-sftp-browse-1409174649/econdevlab.org/home/edlab/maps.econdevlab.org/groundwork_demo/index_jamgreen.html",
+		"/C/users/dillon/appdata/local/temp/sublime-sftp-browse-1409162397/econdevlab.org/home/edlab/maps.econdevlab.org/groundwork_demo/index.html",
+		"/C/users/dillon/appdata/local/temp/sublime-sftp-browse-1409163602/econdevlab.org/home/edlab/maps.econdevlab.org/neighborhoodchange/index_zoom.html",
+		"/C/users/dillon/appdata/local/temp/sublime-sftp-browse-1409162872/econdevlab.org/home/edlab/maps.econdevlab.org/brownfieldtest/index.html",
+		"/C/users/dillon/appdata/local/temp/sublime-sftp-browse-1409163488/econdevlab.org/home/edlab/maps.econdevlab.org/neighborhoodchange/index_zoom.html",
+		"/C/Users/Dillon/Dropbox/EDLab/596Project/DEQMultnomahBrownfields.csv",
+		"/C/Users/Dillon/Dropbox/Schrock/High-I Update/Data/Regression/Reg_Table.sav",
+		"/C/Users/Dillon/AppData/Roaming/Sublime Text 3/Packages/User/Default (Windows).sublime-keymap",
+		"/C/Users/Dillon/AppData/Roaming/Sublime Text 3/Packages/User/SublimeREPL.sublime-settings",
+		"/C/Users/Dillon/Dropbox/McClintock/PDX UA Mapping Project/Regression/regression_tables.r",
+		"/C/Users/Dillon/AppData/Roaming/Sublime Text 3/Packages/SublimeREPL/repls/subprocess_repl.py",
+		"/C/Users/Dillon/AppData/Roaming/Sublime Text 3/Packages/SublimeREPL/sublimerepl.py",
+		"/C/Users/Dillon/AppData/Roaming/Sublime Text 3/Packages/KeyboardSpellCheck/KeyboardSpellCheck.sublime-settings",
+		"/C/Users/Dillon/AppData/Roaming/Sublime Text 3/Packages/SublimeREPL/SublimeREPL.sublime-settings",
+		"/C/users/dillon/appdata/local/temp/sublime-sftp-browse-1407959566/econdevlab.org/home/edlab/maps.econdevlab.org/neighborhoodchange/index.html",
+		"/C/users/dillon/appdata/local/temp/sublime-sftp-browse-1407959614/econdevlab.org/home/edlab/maps.econdevlab.org/neighborhoodchange/index_zoom.html",
+		"/C/Users/Dillon/Desktop/fr_table",
+		"/C/Users/Dillon/Dropbox/EDLab/ParkingSpaces/LevendaSpacesLotsHexes.pdf",
+		"/C/Users/Dillon/Dropbox/EDLab/ParkingSpaces/LevendaSpacesDensityCafe.pdf",
+		"/C/Users/Dillon/Dropbox/EDLab/ParkingSpaces/LevendaSpacesLots.pdf",
+		"/C/Users/Dillon/Dropbox/EDLab/ParkingSpaces/LevendaSpacesDensity.pdf",
+		"/C/Users/Dillon/Dropbox/Career/CV/mahmoudi_dillon-cv.tex",
+		"/C/Users/Dillon/Desktop/DissertationProposal-Rewrite.md",
+		"/C/users/dillon/appdata/local/temp/sublime-sftp-browse-1407729772/econdevlab.org/home/edlab/maps.econdevlab.org/neighborhoodchange/index.html",
+		"/C/Users/Dillon/AppData/Roaming/Postbox/Profiles/kdgnwc5t.default/chrome/userChrome.css",
+		"/C/users/dillon/appdata/local/temp/sublime-sftp-browse-1407518531/econdevlab.org/home/edlab/maps.econdevlab.org/neighborhoodchange/index.html",
+		"/C/Users/Dillon/AppData/Roaming/Sublime Text 3/Packages/User/SFTP.sublime-settings"
+	],
+	"find":
+	{
+		"height": 50.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"HTITSharePct",
+			"width",
+			"metro-id",
+			"git-hash",
+			"ineq",
+			"hh",
+			"p1",
+			"ineq.p2",
+			"m_hhchg",
+			"ineq.m2",
+			"ineq.p1",
+			"ineq.m1",
+			"ineq.mq",
+			"PCTCHG8020_20000912",
+			"HINCRATIO8020_1012",
+			"ManufacturingLQ52MetroRef2007",
+			"ConstructionLQ52MetroRef2007",
+			"hash",
+			"num_com",
+			"updateproject",
+			".addto(map)",
+			"info",
+			"props",
+			"updateproject",
+			"nbc-info",
+			"map-legend",
+			"legend",
+			"APgeoj",
+			"gentrifiedtracts",
+			"~",
+			"style=\"aer\", ",
+			"single.row=TRUE, ",
+			"\"qje\"",
+			"qje",
+			"HINCRATIO8020_0912",
+			"ata=rtab ) )",
+			"access",
+			"rtab$",
+			"Reg_Table",
+			"is_alive",
+			"you",
+			"here",
+			"geojson-hash",
+			":optend:",
+			":optst:",
+			"geojson-hash",
+			":optend:",
+			":optst: ",
+			"geojson-hash=",
+			"     d",
+			"option",
+			"::option",
+			"</option>",
+			"<option",
+			"git hash-object C:\\Users\\Dillon\\GitHub\\gentrifiedtracts\\cbsa_all\\",
+			"\\n",
+			"Summary for '",
+			"dillonm@pdx.edu"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 31.0
+	},
+	"input":
+	{
+		"height": 38.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": false,
+	"output.exec":
+	{
+		"height": 172.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.sftp":
+	{
+		"height": 148.0
+	},
+	"project": "dillonm.io.sublime-project",
+	"replace":
+	{
+		"height": 58.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": false,
+	"side_bar_width": 188.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

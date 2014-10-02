@@ -1,0 +1,56 @@
+{
+    "folders":
+    [
+        {
+            "path": ".",
+            "name": "Root",
+            "file_exclude_patterns": ["*.git*"]
+        },
+        {
+            "path": "content",
+            "name": "Content",
+        },
+        {
+            "path": "plugins",
+            "name": "Plugins",
+        },
+        {
+            "path": "themes",
+            "name": "Themes",
+        },
+        {
+            "path": "vendor",
+            "name": "Vendor",
+        },
+        {
+            "path": "lib",
+            "name": "Library",
+        },
+
+    ],
+    "settings":
+    {
+        "color_scheme": "Packages/Color Schemes by carlcalderon/Tyrann/Tyrann.tmTheme",
+        "folder_exclude_patterns":
+        [
+                ".svn",
+                ".git",
+                ".hg",
+                "CVS",
+                "__pycache__"
+        ],
+        "font_size": 12,
+        "font_face": "Source Code Pro",
+        "line_numbers": true,
+        "gutter": true,
+        "draw_centered": true,
+        "wrap_width": 80,
+        "word_wrap": true,
+        "scroll_past_end": true,
+        "ensure_newline_at_eof_on_save": true,
+    },
+    "build_systems":
+    [
+
+    ]
+}
