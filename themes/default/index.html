@@ -10,7 +10,7 @@
 	<meta name="robots" content="{{ meta.robots }}">
 {% endif %}
 
-	<link href='http://fonts.googleapis.com/css?family=Source+Sans+Pro:400,600,700,400italic,600italic|Source+Code+Pro|Source+Serif+Pro:400,600,700' rel='stylesheet' type='text/css'>
+	<link href="http://fonts.googleapis.com/css?family=Source+Sans+Pro:300,400,600,700,300italic,400italic,600italic|Source+Code+Pro|Source+Serif+Pro:400,600,700" rel="stylesheet" type="text/css">
 	<link rel="stylesheet" href="{{ theme_url }}/style.css" type="text/css" />
 
 	<script src="{{ theme_url }}/scripts/modernizr-2.6.1.min.js"></script>
@@ -19,11 +19,22 @@
 
 	<header id="header">
 		<div class="inner clearfix">
+		{% if is_front_page %} <!-- Front page lists all blog posts -->
+			<img src="/dillonmio_face.png" width="15%" height="15%" />
+
 			<h1><a href="{{ base_url }}">{{ site_title }}</a></h1>
+
+			<a href="/about"><em>Dillon Mahmoudi</em></a>, economic geographer and urban planning scholar, also the <a href=""><em>Badassness Map</em></a>
+		{% else %} <!-- Single page shows individual blog post -->
+			<bolder><a href="{{ base_url }}">{{ site_title }}</a></bolder> &mdash; <a href="/about"><em>Dillon Mahmoudi</em></a>, economic geographer and urban planning scholar, also the <a href=""><em>Badassness Map</em></a>
+		{% endif %}
 			<ul class="nav">
-				{% for page in pages %}
-				<li><a href="{{ page.url }}">{{ page.title }}</a></li>
-				{% endfor %}
+				<li><a href="/about">About</a></li>
+				<li><a href="/research">Research</a></li>
+				<li><a href="/projects">Projects</a></li>
+				<li><a href="/cv">CV</a></li>
+				<li><a href="/posts">Excerpts</a></li>
+				<li><a href="/contact">Contact</a></li>
 			</ul>
 		</div>
 	</header>
