@@ -131,11 +131,16 @@ h1 {
 }
 
 h2 {
-	font-size: 1.7em;
+	font-size: 1.4em;
 }
 
 h3 {
-	font-size: 1.5em;
+	font-size: 1.2em;
+	margin-top: 2em;
+}
+
+h4 {
+	font-size: 1.2em;
 	margin-top: 2em;
 }
 
@@ -222,7 +227,7 @@ blockquote {
 	/*background: #2EAE9B;
 		color: #afe1da; */
 	padding: 30px 0;
-	margin-bottom: 80px;
+	margin-bottom: 50px;
 	text-align: center;
 }
 #header a { color: #522B83; }
@@ -245,13 +250,19 @@ blockquote {
 #header .nav a {
 	font-weight: normal;
 	margin-left: 20px;
+	font-size: 1em;
 }
 
 #header bolder a:hover,
 #header bolder a { text-decoration: none; }
 
+#header .name {
+	font-style:italic;
+	font-weight:400;
+}
+
 #footer {
-	background: #707070;
+	background: #2A2A2A;
 	padding: 60px 0;
 	margin-top: 80px;
 	color: #C0C0C0;
