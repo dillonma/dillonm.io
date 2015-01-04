@@ -1,5 +1,5 @@
 /*
-Title: Dillon Mahmoudi
+Title: Home
 Description: Dillon Mahmoudi, economic geography scholar
 */
 
@@ -22,7 +22,9 @@ As part of the development of this research, I am working with [Greg Schrock](ht
 #### Planning & Urban Economic Geographies
 On [CityObservatory](http://www.cityobservatory.org) I work with Joe Cortright on a variety of urban-centered questions along both inter-urban and intra-urban levels. We cover topics like economic development policy, geographies of wealth/inequality and social, economic and racial and ethnic diversity and segregation.
 
-- Cortright, Joseph, and <u>Dillon Mahmoudi</u>. 2014. **“Neighborhood Change, 1970 to 2010: Transition and Growth in Urban High Poverty Neighborhoods.”** Impresa Consulting. [PDF](http://dillonm.com/wp/wp-content/uploads/2014/05/Seltzer_Mahmoudi_2012_Citizen-Participation-Open-Innovation-and-Crowdsourcing.pdf)
+- Cortright, Joseph, and <u>Dillon Mahmoudi</u>. 2014. **“Lost in Place: Why the persistence and spread of concentrated poverty—not gentrification—is our biggest urban challenge.”** City Observatory. [PDF](http://dillonm.io/articles/Cortright_Mahmoudi_2014_Lost-In-Place.pdf) [Interactive Web Map](http://cityobservatory.org/maps/lostinplace/)
+
+- Cortright, Joseph, and <u>Dillon Mahmoudi</u>. 2014. **“Neighborhood Change, 1970 to 2010: Transition and Growth in Urban High Poverty Neighborhoods.”** Impresa Consulting. [PDF](http://dillonm.io/articles/Cortright_Mahmoudi_2014_Neighborhood-Change.pdf)
 
 #### Critical GIS & Urban Agriculture
 My research interests in critical GIS has led me to collaborate with [Nathan McClintock](http://urbanfood.org/) to investigate the spatial logics and socioeconomic distribution of urban agriculture in Portland, Oregon. We are currently working on two manuscripts.
@@ -32,4 +34,4 @@ Additionally, I attended the _Revisiting Critical GIS_ conference in Friday Harb
 #### Other Selected Publications
 In 2013, I co-authored an article published in the Journal of Planning Literature on the role of open-innovation and crowdsourcing in planning. Technologies, the numerous potential development pathways, and nature of adoption in society is core to my research interests.
 
-- Seltzer, Ethan, and <u>Dillon Mahmoudi</u>. 2013. **“Citizen Participation, Open Innovation, and Crowdsourcing: Challenges and Opportunities for Planning.”** _Journal of Planning Literature_ 28 (1) (February). [DOI](http://dx.doi.org/10.1177/0885412212469112) [PDF](http://dillonm.com/wp/wp-content/uploads/2014/05/Seltzer_Mahmoudi_2012_Citizen-Participation-Open-Innovation-and-Crowdsourcing.pdf)
+- Seltzer, Ethan, and <u>Dillon Mahmoudi</u>. 2013. **“Citizen Participation, Open Innovation, and Crowdsourcing: Challenges and Opportunities for Planning.”** _Journal of Planning Literature_ 28 (1) (February). [DOI](http://dx.doi.org/10.1177/0885412212469112) [PDF](http://dillonm.io/articles/Seltzer_Mahmoudi_2012_Citizen-Participation-Open-Innovation-and-Crowdsourcing.pdf)

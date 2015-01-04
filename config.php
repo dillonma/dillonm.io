@@ -24,4 +24,4 @@ $config['custom_setting'] = 'Hello'; 	// Can be accessed by {{ config.custom_set
 
 $config['site_title'] = 'dillonm.io';     // Site title
 //$config['base_url'] = '';         // Override base URL (e.g. http://example.com)
-$config['theme'] = 'default';       // Set the theme (defaults to "default")
+$config['theme'] = 'mundane';       // Set the theme (defaults to "default")
