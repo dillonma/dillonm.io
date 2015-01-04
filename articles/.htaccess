@@ -1,0 +1,3 @@
+Options +Indexes
+# adding fancy directory indexing
+IndexOptions +FancyIndexing
