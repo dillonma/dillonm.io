@@ -1,3 +1,8 @@
+# Pico library
+lib/pdfjs/**
+lib/pdfjs/
+*.bcmap
+
 # Windows image file caches
 Thumbs.db
 ehthumbs.db
@@ -26,7 +31,8 @@ $RECYCLE.BIN/
 .LSOverride
 
 # Icon must end with two \r
-Icon
+Icon
+
 
 # Thumbnails
 ._*
