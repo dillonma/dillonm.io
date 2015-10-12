@@ -38,7 +38,7 @@
 				<!--<a href="/research">Research</a> &nbsp;-->
 				<!--<a href="/projects">Projects</a> &nbsp;-->
 				<a href="/cv">CV</a> &nbsp;
-				<!--<a href="/posts">Excerpts</a> &nbsp;-->
+				<a href="/excerpts">Excerpts</a> &nbsp;
 				<a href="/contact">Contact</a>
 			</p>
 		</div>
@@ -54,7 +54,9 @@
 		<div class="inner">
 			<ul class="nav">
 		    {% for page in pages %}
-		    <li><a href="{{ page.url }}">{{ page.title }}</a></li>
+			{% if not page.date %}			
+			    <li><a href="{{ page.url }}">{{ page.title }}</a></li>
+			{% endif %}
 		    {% endfor %}
 			</ul>
 		</div>

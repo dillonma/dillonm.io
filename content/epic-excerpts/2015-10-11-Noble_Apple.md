@@ -1,0 +1,30 @@
+/*
+Title: David Noble on Apple
+Description: David Noble describing the cult of technology
+Date: 2015/11/10
+Template: index
+*/
+
+# David Noble describing the cult of technologists:
+
+> "A thousand years in the making, the religion of technology has become 
+the common faith, shared alike by the designers and by those caught up, 
+undone, or destroyed by their godly designs. The popular expectation of 
+deliverance through technology, whatever the abundantly apparent human 
+and social costs, has become the unspoken orthodoxy, and the shared 
+delusion. Thus the 'advance of the arts' is allowed to proceed apace, 
+without scrutiny, without oversight, without social purpose -- without 
+reason. Amply aided and indulged by evangelical corporate promoters 
+(Apple Computer sales personal are called 'evangelists') and self-serving 
+governments, the media and the military -- and supported by an 
+increasingly desperate populace for whom technological transcendence (as 
+escape) appears to be the only possibility -- the architects of the new 
+age wield their priest-like authority with Adamic aplomb as they lead us 
+on their accelerating other-worldly adventure. Criticism is dismissed as 
+irrelevant, and irreverent. Opposition is akin to heresy. Yet for the 
+this-worldly few who remain attuned to more terrestrial trials and 
+tribulations, criticism and opposition have become an urgent imperative. 
+Against this hegemonic system of blind belief, rationality demands 
+resistance -- a struggle not for salvation but for survival."
+
+From David Noble's 1995 book *Progress Without People* page 142.

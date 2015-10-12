@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html lang="en" class="no-js">
+<head>
+	<meta charset="utf-8" />
+	<link rel="shortcut icon" href="/favicon.ico" type="image/x-icon">
+	<link rel="icon" href="/favicon.ico" type="image/x-icon">
+
+	<title>{% if meta.title %}{{ meta.title }} | {% endif %}{{ site_title }}</title>
+{% if meta.description %}
+	<meta name="description" content="{{ meta.description }}">
+{% endif %}{% if meta.robots %}
+	<meta name="robots" content="{{ meta.robots }}">
+{% endif %}
+
+	<link href="http://fonts.googleapis.com/css?family=Source+Sans+Pro:300,400,600,700,300italic,400italic,600italic|Source+Code+Pro|Source+Serif+Pro:400,600,700" rel="stylesheet" type="text/css">
+	<link rel="stylesheet" href="{{ theme_url }}/style.css" type="text/css" />
+
+	<script src="{{ theme_url }}/scripts/modernizr-2.6.1.min.js"></script>
+</head>
+<body>
+
+	<header id="header">
+		<div class="inner clearfix">
+		{% if is_front_page %}
+			<img src="/profile_dillonmio.png" width="15%" height="15%" />
+
+			<h1><a href="{{ base_url }}">{{ site_title }}</a></h1>
+
+			<a href="/about"><span class="name">Dillon Mahmoudi</span></a>, economic geographer and urban planning scholar<br/>contributor on <a href="http://www.cityobservatory.org"><em>CityObservatory</em></a>, also the <a href="http://dillonm.io/projects/badassness-map"><em>Badassness Map</em></a>
+		{% else %} <!-- Single page shows individual blog post -->
+			<bolder><a href="{{ base_url }}">{{ site_title }}</a></bolder> &mdash; <a href="/about"><span class="name">Dillon Mahmoudi</span></a>, economic geographer and urban planning scholar<br/>contributor on <a href="http://www.cityobservatory.org"><em>CityObservatory</em></a>, also the <a href="http://dillonm.io/projects/badassness-map"><em>Badassness Map</em></a>
+		{% endif %}
+			<p class="nav">
+		{% if not is_front_page %}
+				<a href="/">Home</a> &nbsp;
+		{% endif %}
+				<a href="/about">About</a> &nbsp;
+				<!--<a href="/research">Research</a> &nbsp;-->
+				<!--<a href="/projects">Projects</a> &nbsp;-->
+				<a href="/cv">CV</a> &nbsp;
+				<!--<a href="/posts">Excerpts</a> &nbsp;-->
+				<a href="/contact">Contact</a>
+			</p>
+		</div>
+	</header>
+
+        <section id="content" class="{{ meta.title }}">
+                <div class="inner">
+			<div id="posts">
+			{% for page in pages %}
+			{% if page.date %} <!-- Note we check for Date field (posts) here -->
+			<div class="post">
+			<h3><a href="{{ page.url }}">{{ page.title }}</a></h3>
+			<p class="meta">{{ page.date_formatted }}</p>
+			<p class="excerpt">{{ page.excerpt }} <a href="{{ page.url }}">&raquo; read more</a></p>
+			</div>
+			{% endif %}
+			{% endfor %}
+		</div>
+              </div>
+        </section>
+
+	<footer id="footer">
+		<div class="inner">
+			<ul class="nav">
+		    {% for page in pages %}
+		    <li><a href="{{ page.url }}">{{ page.title }}</a></li>
+		    {% endfor %}
+			</ul>
+		</div>
+		<div class="inner">
+			This site is powered by the free and open source flat file CMS <a href="http://picocms.org/">Pico</a> and the Source Sans/Serif/Code Pro family of fonts.<br/>
+			Site style/colophon inspiration from friend and fellow scholar <a href="http://ellieharmon.com/">Ellie Harmon</a>.
+		</div>
+	</footer>
+
+</body>
+</html>
