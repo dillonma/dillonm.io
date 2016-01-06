@@ -79,7 +79,7 @@ input,
 textarea,
 select {
 	padding: 5px;
-	font: 400 1em 'Source Serif Pro', Calibri, Helvetica, Verdana, sans-serif;
+	font: 400 1em 'Source Sans Pro', Helvetica, Calibri, Verdana, sans-serif;
 	color: #666;
 	background: #fff;
 	border: 1px solid #999999;
@@ -96,16 +96,17 @@ select:focus {
 
 /* Main Styles
 /*---------------------------------------------*/
+/* If you go back to Sans Pro, make sure you change the font-weighting. */
 body {
-	font: 16px/1.8em 'Source Serif Pro', Calibri, Helvetica, Verdana, sans-serif;
-	font-weight: 300;
+	font: 16px/1.8em 'Source Sans Pro', Helvetica, Calibri, Verdana, sans-serif;
+	font-weight: 400;
 	color: #111;
 	background: #fff;
 	-webkit-font-smoothing: antialiased;
 }
 
 a, a:visited {
-	color: #522B83;
+	color: Blue;
 	text-decoration: underline;
 	-webkit-transition: all 0.2s linear;
 	-moz-transition: all 0.2s linear;
@@ -145,7 +146,10 @@ h4 {
 }
 
 hintro {
-	font-size: 1.35em;
+	font-size: 1.3em;
+	font-family: 'Source Sans Pro', Helvetica, Calibri, Verdana, sans-serif;
+	line-height: 1.2em;
+	font-weight: 400;
 }
 
 date, .date {
@@ -162,11 +166,11 @@ ol, ul {
 }
 
 b, strong {
-	font-weight: 400;
+	font-weight: 600;
 }
 
 bolder {
-	font-weight: 600;
+	font-weight: 700;
 }
 
 i, em {
@@ -232,11 +236,11 @@ blockquote {
 	margin-bottom: 10px;
 	text-align: center;
 }
-#header a { color: #522B83; }
+#header a { color: Blue; }
 #header h1 a { text-decoration: none; }
 #header h1 a,
 #header a:hover { color: #000; }
-#header h1 a:hover { color: #522B83; }
+#header h1 a:hover { color: Blue; }
 #header h1 {
 	font-weight: 600;
 	margin: 10px 0;
