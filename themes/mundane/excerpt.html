@@ -48,7 +48,7 @@
         <section id="content" class="{{ meta.title }}">
                 <div class="inner">
 			<div id="posts">
-			{% for page in pages %}
+			{% for page in pages | reverse %}
 			{% if page.date %} <!-- Note we check for Date field (posts) here -->
 			<div class="post">
 			<h3><a href="{{ page.url }}">{{ page.title }}</a></h3>
