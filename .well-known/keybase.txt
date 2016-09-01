@@ -1,0 +1,75 @@
+==================================================================
+https://keybase.io/dillonm
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of http://dillonm.io
+  * I am dillonm (https://keybase.io/dillonm) on keybase.
+  * I have a public key with fingerprint 174E 4F3D D478 FAC2 3B61  47CF 7BB9 D96E 021E 0DC0
+
+To do so, I am signing this object:
+
+{
+    "body": {
+        "key": {
+            "eldest_kid": "0120880874d19dec9e589fb0ac3b684c4dc9a48aa4249d38cd028b5c55b47b5b1acb0a",
+            "fingerprint": "174e4f3dd478fac23b6147cf7bb9d96e021e0dc0",
+            "host": "keybase.io",
+            "key_id": "7bb9d96e021e0dc0",
+            "kid": "0101be65d915fb227c56fecd2629c691dca9ec348b6c7abb36aaf005349c1f4a55ab0a",
+            "uid": "946e7992a3b8f9364afefc4c8e966419",
+            "username": "dillonm"
+        },
+        "service": {
+            "hostname": "dillonm.io",
+            "protocol": "http:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "ctime": 1472097178,
+    "expire_in": 157680000,
+    "prev": "9feae69eb5e4d9631f5c15714c75577ecdac9a8d5dd7dfe7e70fec789a5071a2",
+    "seqno": 8,
+    "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: Keybase OpenPGP v2.0.56
+Comment: https://keybase.io/crypto
+
+yMNpAnicbZJrTBxVFMeXpRh2gZZNFBQStGPFNF3pzOzM3JlFYlugLD4CtBRss832
+zp07MF3YXXYHCuFRjMU2xsSKpShaErNWaxuoSltAkYCBUsRHoUas0ZJopbRSqhTK
+Q0KdofaDiffLzT35nf85539PX1SowRxS2XnZY0yI6gkZ6n2z1JDf7W6qJESvVEHY
+Kwk3XrlwkYQDqsutSISdICma5HmSB4xECRJGAmZ5QRZJiGwixzOIkZAAGR5ChmYE
+ycYjiaR5kUUsKzJAZEUKIg0mrISseAqw3+dXPKomSwEGM7JNkhjAyxDRmhjFACQD
+URQkgcMkTWFSQqSWWOgN6BlacyIM4CTFq8W0h2ulvf/h7/dNUiLmWEmgWFmkaYBY
+TsZIojlaQJxASQgKGNkYXuQQgKJo4yCUSZK1MQKiZAayLLzXd+mKnMBwGAgCDW0i
+Lws2joEylhGDeCxwHEMJOhjAfg8sxhotKUVFXk8xUW0ltGCZgrDuqz7If4F7w/j8
+XtWLvEVavFBVfXY9Ta3w6dw+LLr+VXCJikfSPNQSyrA/oHg9hJ3SSKQquqTmHk0K
+gAK8lcDlPsWPXYpOsIDjSe3oZXCZPomMIeYELLKY0ZyzUTKLNIpiEGBZADSLoPaj
+vMRKEpBkDDAgNd8AL0CWBBSkCX2mEo+XsGuVVFigSQaUAg9US/2YqP6y17nKEGI2
+PBBm1HfLYDZF39848b01d/0z6cZZS+bB0XH0dbvx8ZzI9JmixS0lb/V395ydTT5O
+b207OX5krIDbYISxXEnKta0XLTVDCbUbLZbZh011v+8cPJHauzf7esZjIMOxXM9a
+Ws97+rN7sgZuLCT8ZuyIqNkUGQz+8dR8wFkejDa/Y6g8Ri6cLKaODOd0oTn3Ulrf
+M/34QWNeXofaeKM1pzrj1ZzD7Zez91g9X13Yv6vw1lzwal1ogprpnojIMrOGo7+u
+2z5x2xc70H3JlLh2suFRxFcM313oPGAK7nzDOn9otYtM/oUenTkNpmKSHLm7+pzf
+z5rGrnwcty114edvE6eM+c0xVTeDV14K3xHy9KfyK3lPOA8wkRft+zedHXE31lim
+Lg18UJUbHnaisantgjF88eBI0+73A5GTDhav77AODZnb2uKjk16brgtXU54cGqaj
+yl9uruVanIWPEBHvLu6JymwOqTndevx5esK06q+apU9CDZOnPqyPzR1bGLj5me8M
+Slz+PHNf3nh3ve1ae0rK0vVpJ/nn/KGGlDrgOP/T4I5t59a/HTcamNtb2VIhj5RM
+JGdFKVmpDfnTaVvoroe6jp6yftGYvrp5c3vNj8sbqTthx5amnwuc2/33dy/e4RPX
+VL/+TWf81hd+CORsQDHE9niGDluXdnjKkXV7c5XjVvKzH9V2mDJ9V1WuSoqzDfrO
+SPnk2vSWfwDOzbkJ
+=oGZd
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/dillonm
+
+==================================================================
