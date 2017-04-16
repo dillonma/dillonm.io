@@ -12,8 +12,8 @@ Peer-reviewed Journal Articles
 
 -   Thatcher, Jim, David O’Sullivan and Dillon Mahmoudi. 2016. [“Data
     Colonialism through Accumulation by Dispossession: New metaphors for daily
-    data.”](http://papers.ssrn.com/sol3/papers.cfm?abstract_id=2709498)
-    Forthcoming in *Environment and Planning D: Society and Space*.
+    data.”](http://dillonm.io/articles/thatcher%20et%20al_2016_data%20colonialism%20through%20accumulation%20by%20dispossession.pdf)
+    *Environment and Planning D: Society and Space* 34 (6): 990-1006.
     [doi:10.1177/0263775816633195](http://dx.doi.org/10.1177/0263775816633195)
 
 -   Powe, Michael, Emily Talen, Jonathan Mabry and Dillon Mahmoudi. 2016. [“Jane
@@ -26,7 +26,7 @@ Peer-reviewed Journal Articles
     Santos. [“Socio-spatial differentiation in the Sustainable City: A
     mixed-methods assessment of residential gardens in metropolitan Portland,
     Oregon,
-    USA.”](http://dillonm.io/articles/postprint_mcclintock%20et%20al_2015_sociospatial%20differentiation%20in%20the%20sustainable%20city.pdf)
+    USA.”](http://dillonm.io/articles/mcclintock%20et%20al_2016_socio-spatial%20differentiation%20in%20the%20sustainable%20city.pdf)
     *Landscape and Urban Planning* 148 (April): 1-16.
     [doi:10.1016/j.landurbplan.2015.12.008](http://dx.doi.org/10.1016/j.landurbplan.2015.12.008)
 

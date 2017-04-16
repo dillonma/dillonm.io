@@ -3,17 +3,17 @@ Title: Home
 Description: Dillon Mahmoudi, economic geography scholar
 */
 
-<hintro>I am a PhD Candidate in the [Toulan School of Urban Studies and Planning](http://www.pdx.edu/usp) at Portland State. I'm interested in: the role, and production, of technology in urban areas; geographies of urban wealth and inequality; and critical quantitative and GIS methods. This is my site where I keep my research, write about coding and GIS, and keep a blog of epic excerpts from things I read.</hintro>
+<hintro>I am a PhD Candidate in the [Toulan School of Urban Studies and Planning](http://www.pdx.edu/usp) at Portland State. I focus my research around three areas: (1) the intersection of cities and digital technologies (production, use, and impacts); (2) the geographies of urban wealth and inequality; and (3) critical quantitative and GIS methods. This is my site where I keep my research, write about coding and GIS, and keep a blog of epic excerpts from things I read.</hintro>
 
 ## Current Research
-As an economic geographer, my research spans the fields of planning, geography and science, technology and society. I currently split my overarching research interests across three broad projects -- all connected through economic geography, labor and technology. My dissertation research focuses on the expression of value in capitalist production. Specifically, my research focuses on the various place-specific software production processes among different regions and the relationship between different software industry/firms/workers and broad-based economic development, prosperity and inequality. More broadly, my research focuses on the regional socio-industrial re/configurations under cognitive-cultural capitalism. See more under [research](http://dillonm.io/research).
+As an economic geographer, my research spans the fields of planning, geography and science, technology and society. I currently split my overarching research interests across three broad projects -- all connected through economic geography, labor and technology. My dissertation research focuses on the expression of value in capitalist production. Specifically, my research focuses on the place-specific software production processes among different regions and the relationship between different software agglomerations (industry/firms/workers) and broad-based economic development, prosperity and inequality. More broadly, my research focuses on the regional socio-industrial re/configurations under cognitive-cultural capitalism. See more under [research](http://dillonm.io/research).
 
 ## Selected Recent Publications
 
 -   Thatcher, Jim, David O’Sullivan and Dillon Mahmoudi. 2016. [“**Data
     Colonialism through Accumulation by Dispossession: New metaphors for daily
     data.**”](http://papers.ssrn.com/sol3/papers.cfm?abstract_id=2709498)
-    Forthcoming in *Environment and Planning D: Society and Space*.
+    *Environment and Planning D: Society and Space* 34 (6): 990–1006.
     [doi:10.1177/0263775816633195](http://dx.doi.org/10.1177/0263775816633195)
 
 -   Mahmoudi, Dillon, and Anthony Levenda. 2016. [“**Beyond the Screen: Uneven
